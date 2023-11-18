@@ -1,0 +1,21 @@
+.carousel{
+    width: 555px;
+    height: 555px;
+}
+.carousel2{
+    width: 555px;
+    height: 544px;
+}
+.container {
+    display: flex;
+    align-items: center;
+  }
+
+  .logo {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+  }
+  
+
+
